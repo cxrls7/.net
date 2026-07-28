@@ -1,0 +1,14 @@
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/bin/Debug/net10.0/FirstSteps
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/bin/Debug/net10.0/FirstSteps.deps.json
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/bin/Debug/net10.0/FirstSteps.runtimeconfig.json
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/bin/Debug/net10.0/FirstSteps.dll
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/bin/Debug/net10.0/FirstSteps.pdb
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.AssemblyInfoInputs.cache
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.AssemblyInfo.cs
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.csproj.CoreCompileInputs.cache
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.dll
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/refint/FirstSteps.dll
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.pdb
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/FirstSteps.genruntimeconfig.cache
+/home/Cohorte3/Documents/CARLOS .NET/FirstSteps/obj/Debug/net10.0/ref/FirstSteps.dll
